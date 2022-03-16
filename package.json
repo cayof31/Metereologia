@@ -1,0 +1,16 @@
+{
+  "name": "meterologia",
+  "version": "1.0.0",
+  "description": "Metorologic web-app",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cayo Felipe",
+  "license": "ISC",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "openweather": "^1.0.4"
+  }
+}
