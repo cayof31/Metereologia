@@ -4,6 +4,7 @@ const button = document.querySelector("#SButton");
 const p = document.createElement("span");
 const inputcity = document.querySelector("#SInput")
 let cidade;
+
 function fet() {
   if (p.length > 0) {
     p.innerText = null;
